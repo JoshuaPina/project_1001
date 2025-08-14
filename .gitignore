@@ -1,3 +1,10 @@
-data/subjects.xlsx
+_pycache_
+*.pyc
+nlpvenv/
 .env
+.venv
+.vscode/
+
+data/subjects.xlsx
 data/wordlists/
+archives/
