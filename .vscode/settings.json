@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "nlpvenv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true
+}
