@@ -1,17 +1,17 @@
-Education,State,Education.1,Job Title,Degree,# of Words,Familiarity,1st Message,Noticed,Pseudonym
-,Georgia,,,,,,,,Wife Platypus
-,,,,,,,,,Pads Rabbit
-,Georgia,,,,,,,,Marine Guinea Pig
-,,,,,,,,,Strengths Fox
-,,,,,,,,,Tile Monkey
-,,,,,,,,,Screenshots Gnu
-,,,,,,,,,Fwd Panther
-,,,,,,,,,Wood Gazelle
-,,,,,,,,,Juice Panther
-,,,,,,,,,Dependence Silver Fox
-,,,,,,,,,Tower Gorilla
-,,,,,,,,,Bear Chameleon
-,,,,,,,,,Webster Squirrel
-,,,,,,,,,Logic Bat
-,,,,,,,,,Yrs Gopher
-,,,,,,,,,Roster Antelope
+Pseudonym,ID,State,Education,Job Field,Familiarity,# of Words,1st Message,Noticed
+Wife Platypus,S-001,Georgia,2,Psych,5,0,,
+Pads Rabbit,S-002,Florida,1,Tech,5,0,,
+Marine Guinea Pig,S-003,Georgia,2,Tech,4,0,,
+Strengths Fox,S-004,Florida,1,Medical,3,0,,
+Tile Monkey,S-005,Ohio,2,Medical,3,0,,
+Screenshots Gnu,S-006,Florida,2,Accounting,2,0,,
+Fwd Panther,S-007,Florida,1,Medical,2,0,,
+Wood Gazelle,S-008,Florida,2,Accounting,3,0,,
+Juice Panther,S-009,Florida,1,Admin,4,0,,
+Dependence Silver Fox,S-010,Hawaii,1,Military,4,0,,
+Tower Gorilla,S-011,Georgia,2,Tech,2,0,,
+Bear Chameleon,S-012,Florida,3,Management,3,0,,
+Webster Squirrel,S-013,Florida,0,Admin,2,0,,
+Logic Bat,S-014,Florida,1,Driver,2,0,,
+Yrs Gopher,S-015,Florida,2,Tech,5,0,,
+Roster Antelope,S-016,Arizona,1,Tech,2,0,,
