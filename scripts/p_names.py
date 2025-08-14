@@ -122,3 +122,4 @@ if __name__ == "__main__":
     print(f"Anonymized CSV written to: {OUTPUT}")
     print("-" * 50)
 print("Python script completed successfully.")
+print()
